@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"c568307dc5f3862c","type":"file","file":"Public/РФ/Москва/Сергиев-Посад/Скоропусковск/Миша Чернышов/Личные данные Миши Чернышова.md","x":380,"y":-159,"width":460,"height":179},
+		{"id":"c4075d315cac690a","type":"file","file":"Public/РФ/Москва/Сергиев-Посад/Скоропусковск/Миша Чернышов/Фото и видео Миши/214124214.mp4","x":900,"y":-159,"width":229,"height":419},
+		{"id":"d8babe742cdb25e8","type":"file","file":"Public/РФ/Москва/Сергиев-Посад/Скоропусковск/Миша Чернышов/Чем занимается Миша Чернышов.md","x":380,"y":60,"width":460,"height":200},
+		{"id":"9f61e8fe11cc4ce8","type":"file","file":"Public/РФ/Москва/Сергиев-Посад/Скоропусковск/Миша Чернышов/Фото и видео Миши/Pasted image 20261126212427.png","x":380,"y":320,"width":739,"height":445},
+		{"id":"a31e4df1637f3ed6","x":100,"y":-159,"width":245,"height":419,"type":"file","file":"Public/РФ/Москва/Сергиев-Посад/Скоропусковск/Миша Чернышов/Фото и видео Миши/Pasted image 20261126213201.png"}
+	],
+	"edges":[
+		{"id":"426bfd5cd01737f1","fromNode":"c568307dc5f3862c","fromSide":"right","toNode":"c4075d315cac690a","toSide":"left"},
+		{"id":"d77115986e82a127","fromNode":"c4075d315cac690a","fromSide":"bottom","toNode":"9f61e8fe11cc4ce8","toSide":"top"},
+		{"id":"bdfb74513f877523","fromNode":"c568307dc5f3862c","fromSide":"bottom","toNode":"d8babe742cdb25e8","toSide":"top"},
+		{"id":"43df952d5cf6d3df","fromNode":"d8babe742cdb25e8","fromSide":"right","toNode":"c4075d315cac690a","toSide":"left"},
+		{"id":"fdbcd70ce2c08b76","fromNode":"a31e4df1637f3ed6","fromSide":"right","toNode":"c568307dc5f3862c","toSide":"left"}
+	]
+}
